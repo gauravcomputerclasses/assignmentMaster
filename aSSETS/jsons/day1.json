@@ -1,9 +1,14 @@
 {
   "questions": [
-    "What’s your favorite color?",
-    "Do you like coffee or tea?",
-    "Have you ever been to the beach?",
-    "Can you whistle?",
-    "What time do you usually wake up?"
+    "Write a prompt that asks ChatGPT to generate a blog post titled '5 Benefits of Journaling for Mental Health.' Include the format, tone, and target audience.",
+    "Create a basic prompt for generating a product description for a reusable water bottle aimed at eco-conscious shoppers. Then refine it by adding tone and word limit.",
+    "Write an Instagram caption prompt promoting a new productivity app for students. The tone should be energetic and motivating.",
+    "Starting with the prompt: 'Write a short newsletter for a new bookstore opening,' improve it by specifying tone, format, and audience.",
+    "Draft a prompt to generate an email reminder for an online course deadline. Target young adults and keep it concise and friendly.",
+    "Write three versions of the same content prompt to promote a local fitness challenge on Facebook, WhatsApp, and LinkedIn.",
+    "Create a prompt to write a 200-word explainer article about 'What is Generative AI?' for high school students.",
+    "Given the task: 'Promote a travel vlog about Paris,' write a clear, specific prompt that includes format (e.g., YouTube title), tone (exciting), and word count (under 20 words).",
+    "Take the base prompt: 'Create a tweet about AI in education.' Refine it to include a clear audience (teachers), purpose (spark discussion), and a character limit (under 280).",
+    "Create a prompt asking ChatGPT to compare two types of content (e.g., blog vs. video) for promoting a cooking class, including pros and cons."
   ]
 }
